@@ -16,6 +16,6 @@ Your team is responsible for taking notes and generating a summary of the instru
 
 ## Submission Guidelines:
 
-In this repository, use the `paper-discussions-template.Rmd` file to generate your summary (1 page max) as an RMarkdown file, titled `[Author(s)]-[Year]-summary.Rmd` and then knit the RMarkdown file to a `.pdf` file. The template is given for ease of reproducing the correct RMarkdown formatting. That `.pdf` file will be what's graded. For example, if generating a summary for the example Favaro et al. (2014) paper, the file would simply be `favaro-etal-2014-summary.Rmd`. 
+In this repository, use the `paper-discussions-template.Rmd` file to generate your summary (1 page max) as an RMarkdown file, titled `[Author(s)]-[Year]-summary.Rmd` and then combine that with the pre-discussion preparation you prepared into one single document. Then knit the RMarkdown file to a `.pdf` file. The template is given for ease of reproducing the correct RMarkdown formatting. That `.pdf` file will be what's graded. For example, if generating a summary for the example Favaro et al. (2014) paper, the file would simply be `favaro-etal-2014-summary.Rmd`. 
 
 **Note:** This is a group assignment, but you will all need to submit your assignment (i.e. commit to this repository with your `.pdf` of the summary that you all wrote), but they will all be identical. That is, you all collaborate to write *one* summary, but each of you must submit the identical files. 
